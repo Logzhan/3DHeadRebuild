@@ -1,0 +1,63 @@
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI\DM_CalibrationTools\bin\Debug\SharpGL.dll
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI\DM_CalibrationTools\bin\Debug\SharpGL.SceneGraph.dll
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI\DM_CalibrationTools\bin\Debug\SharpGL.WinForms.dll
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI\DM_CalibrationTools\bin\Debug\SharpGL.xml
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI\DM_CalibrationTools\bin\Debug\SharpGL.SceneGraph.xml
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI\DM_CalibrationTools\bin\Debug\SharpGL.WinForms.xml
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI\DM_CalibrationTools\obj\Debug\3DHeadRebuild.csproj.GenerateResource.Cache
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI\DM_CalibrationTools\bin\Debug\3DHeadRebuild.exe.config
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI\DM_CalibrationTools\obj\Debug\ThreeDHeadRebuild.Properties.Resources.resources
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI\DM_CalibrationTools\bin\Debug\3DHeadRebuild.exe
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI\DM_CalibrationTools\bin\Debug\3DHeadRebuild.pdb
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI\DM_CalibrationTools\obj\Debug\3DHeadRebuild.exe
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI\DM_CalibrationTools\obj\Debug\3DHeadRebuild.pdb
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI\DM_CalibrationTools\obj\Debug\ThreeDHeadRebuild.RenderSetting.resources
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI\DM_CalibrationTools\obj\Debug\ThreeDHeadRebuild.MainForm.resources
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI\DM_CalibrationTools\obj\Debug\ThreeDHeadRebuild.AboutUs.resources
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI\DM_CalibrationTools\obj\Debug\ThreeDHeadRebuild.MiniForm.resources
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI\DM_CalibrationTools\obj\Debug\ThreeDHeadRebuild.ModelControlForm.resources
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI\DM_CalibrationTools\obj\Debug\3DHeadRebuild.csprojResolveAssemblyReference.cache
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - beta\DM_CalibrationTools\bin\Debug\3DHeadRebuild.exe.config
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - beta\DM_CalibrationTools\obj\Debug\3DHeadRebuild.exe
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - beta\DM_CalibrationTools\obj\Debug\3DHeadRebuild.pdb
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - beta\DM_CalibrationTools\bin\Debug\3DHeadRebuild.exe
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - beta\DM_CalibrationTools\bin\Debug\3DHeadRebuild.pdb
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - beta\DM_CalibrationTools\bin\Debug\SharpGL.dll
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - beta\DM_CalibrationTools\bin\Debug\SharpGL.SceneGraph.dll
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - beta\DM_CalibrationTools\bin\Debug\SharpGL.WinForms.dll
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - beta\DM_CalibrationTools\bin\Debug\SharpGL.xml
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - beta\DM_CalibrationTools\bin\Debug\SharpGL.SceneGraph.xml
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - beta\DM_CalibrationTools\bin\Debug\SharpGL.WinForms.xml
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - beta\DM_CalibrationTools\obj\Debug\3DHeadRebuild.csprojResolveAssemblyReference.cache
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - beta\DM_CalibrationTools\obj\Debug\ThreeDHeadRebuild.AboutUs.resources
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - beta\DM_CalibrationTools\obj\Debug\ThreeDHeadRebuild.MainForm.resources
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - beta\DM_CalibrationTools\obj\Debug\ThreeDHeadRebuild.MiniForm.resources
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - beta\DM_CalibrationTools\obj\Debug\ThreeDHeadRebuild.ModelControlForm.resources
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - beta\DM_CalibrationTools\obj\Debug\ThreeDHeadRebuild.Properties.Resources.resources
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - beta\DM_CalibrationTools\obj\Debug\ThreeDHeadRebuild.RenderSetting.resources
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - beta\DM_CalibrationTools\obj\Debug\3DHeadRebuild.csproj.GenerateResource.Cache
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - beta\DM_CalibrationTools\bin\Debug\SkinForm.dll
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - Ver 1.0.1\DM_CalibrationTools\bin\Debug\3DHeadRebuild.exe.config
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - Ver 1.0.1\DM_CalibrationTools\obj\Debug\3DHeadRebuild.exe
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - Ver 1.0.1\DM_CalibrationTools\obj\Debug\3DHeadRebuild.pdb
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - Ver 1.0.1\DM_CalibrationTools\bin\Debug\3DHeadRebuild.exe
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - Ver 1.0.1\DM_CalibrationTools\bin\Debug\3DHeadRebuild.pdb
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - Ver 1.0.1\DM_CalibrationTools\bin\Debug\SharpGL.dll
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - Ver 1.0.1\DM_CalibrationTools\bin\Debug\SharpGL.SceneGraph.dll
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - Ver 1.0.1\DM_CalibrationTools\bin\Debug\SharpGL.WinForms.dll
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - Ver 1.0.1\DM_CalibrationTools\bin\Debug\SkinForm.dll
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - Ver 1.0.1\DM_CalibrationTools\bin\Debug\SharpGL.xml
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - Ver 1.0.1\DM_CalibrationTools\bin\Debug\SharpGL.SceneGraph.xml
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - Ver 1.0.1\DM_CalibrationTools\bin\Debug\SharpGL.WinForms.xml
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - Ver 1.0.1\DM_CalibrationTools\obj\Debug\3DHeadRebuild.csprojResolveAssemblyReference.cache
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - Ver 1.0.1\DM_CalibrationTools\obj\Debug\ThreeDHeadRebuild.AboutUs.resources
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - Ver 1.0.1\DM_CalibrationTools\obj\Debug\ThreeDHeadRebuild.MainForm.resources
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - Ver 1.0.1\DM_CalibrationTools\obj\Debug\ThreeDHeadRebuild.MiniForm.resources
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - Ver 1.0.1\DM_CalibrationTools\obj\Debug\ThreeDHeadRebuild.ModelControlForm.resources
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - Ver 1.0.1\DM_CalibrationTools\obj\Debug\ThreeDHeadRebuild.Properties.Resources.resources
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - Ver 1.0.1\DM_CalibrationTools\obj\Debug\ThreeDHeadRebuild.RenderSetting.resources
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - Ver 1.0.1\DM_CalibrationTools\obj\Debug\3DHeadRebuild.csproj.GenerateResource.Cache
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - Ver 1.0.1\DM_CalibrationTools\obj\Debug\ThreeDHeadRebuild.GroupBoxEx.resources
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - Ver 1.0.1\3DHeadRebuild_GUI\bin\Debug\3DHeadRebuild.exe.config
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - Ver 1.0.1\3DHeadRebuild_GUI\obj\Debug\3DHeadRebuild.exe
+E:\科B545 人脸重建\三维人头重建\3DHeadRebuildGUI - Ver 1.0.1\3DHeadRebuild_GUI\obj\Debug\3DHeadRebuild.pdb
