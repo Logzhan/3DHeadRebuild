@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\Src\Texture\TextureCV.cpp">
+      <Filter>Algorithm\TextureCV</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\FaceFitting\facefitting.cpp">
+      <Filter>Algorithm\Fitting</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\FaceFitting\FitFaceShape.cpp">
+      <Filter>Algorithm\Fitting</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\Texture\TextureGL.cpp">
+      <Filter>Algorithm\TextureGL</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\Display\OpenglCfg.cpp">
+      <Filter>Display</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="..\Src\Display\SceneContext.cpp">
+      <Filter>Display</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\Display\SetCamera.cpp">
+      <Filter>Display</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\FileOutput\FileOutput.cpp">
+      <Filter>FileOutput</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Src\Texture\TextureCV.h">
+      <Filter>Algorithm\TextureCV</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\FaceFitting\facefitting.h">
+      <Filter>Algorithm\Fitting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\FaceFitting\FitFaceShape.h">
+      <Filter>Algorithm\Fitting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\Texture\TextureGL.h">
+      <Filter>Algorithm\TextureGL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\Display\OpenglCfg.h">
+      <Filter>Display</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\Display\SceneContext.h">
+      <Filter>Display</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\Display\SetCamera.h">
+      <Filter>Display</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalConfig.h" />
+    <ClInclude Include="..\Src\FileOutput\FileOutput.h">
+      <Filter>FileOutput</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Algorithm">
+      <UniqueIdentifier>{1cefe699-409c-42e3-8e56-ef8c12a8466e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Algorithm\Fitting">
+      <UniqueIdentifier>{5ee79ec2-fd42-491c-a834-5c21f9dde649}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Algorithm\TextureCV">
+      <UniqueIdentifier>{11a5290a-288f-4fdb-ab3a-f1296733167a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Algorithm\TextureGL">
+      <UniqueIdentifier>{03b116dc-f62a-4371-b1b6-24471909625f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Display">
+      <UniqueIdentifier>{7f961de4-6d59-4cb6-830b-28467c7e95ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MorphableModel">
+      <UniqueIdentifier>{2b9ffca5-6f50-4031-aebd-342ad85344d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FileOutput">
+      <UniqueIdentifier>{6c582300-110c-4f03-9a89-9ce165e7e76e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

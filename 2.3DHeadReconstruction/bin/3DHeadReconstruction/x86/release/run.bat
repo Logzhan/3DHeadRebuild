@@ -1,0 +1,2 @@
+3DHeadReconstruction.exe D:\\Resource\\MorphableModel.fbx D:\\Resource\\skin.png D:\\test.jpg D:\\Output\\huamnoid.fbx D:\\Output\\BlendShape.txt D:\\Output\\skintexture.png D:\\Output\\UVFile.txt D:\\Output\\OutputModel.obj
+ 

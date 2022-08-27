@@ -1,7 +1,7 @@
 # 3DHeadRebuild
 基于单张照片的三位人头重建 ：软件运行效果
 
-![](.\4.Image\3DHeadReconstructon-Main.png)
+![](./4.Image/3DHeadReconstructon-Main.png)
 
 **如何运行：**安装VC++ 2012 运行库
 

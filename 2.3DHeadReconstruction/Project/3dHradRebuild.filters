@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\Common\Common.cxx">
+      <Filter>FbxSDK</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawScene.cxx">
+      <Filter>FbxSDK</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawText.cxx">
+      <Filter>FbxSDK</Filter>
+    </ClCompile>
+    <ClCompile Include="GetPosition.cxx">
+      <Filter>FbxSDK</Filter>
+    </ClCompile>
+    <ClCompile Include="GlFunctions.cxx">
+      <Filter>FbxSDK</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cxx">
+      <Filter>FbxSDK</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneCache.cxx">
+      <Filter>FbxSDK</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneContext.cxx">
+      <Filter>FbxSDK</Filter>
+    </ClCompile>
+    <ClCompile Include="SetCamera.cxx">
+      <Filter>FbxSDK</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\Texture\TextureGL.cpp">
+      <Filter>Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\Texture\TextureCV.cpp">
+      <Filter>Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\FaceFitting\facefitting.cpp">
+      <Filter>FaceFitting</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Src\FaceFitting\FitFaceShape.cpp">
+      <Filter>FaceFitting</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DrawScene.h">
+      <Filter>FbxSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawText.h">
+      <Filter>FbxSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="GetPosition.h">
+      <Filter>FbxSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="GlFunctions.h">
+      <Filter>FbxSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneCache.h">
+      <Filter>FbxSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneContext.h">
+      <Filter>FbxSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SetCamera.h">
+      <Filter>FbxSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\Texture\TextureGL.h">
+      <Filter>Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\Texture\TextureCV.h">
+      <Filter>Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\FaceFitting\facefitting.h">
+      <Filter>FaceFitting</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Src\FaceFitting\FitFaceShape.h">
+      <Filter>FaceFitting</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="FbxSDK">
+      <UniqueIdentifier>{24f7cc45-3620-409a-b290-45ded06caa6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Texture">
+      <UniqueIdentifier>{c93be3b6-c856-4d90-8803-ce73182def6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FaceFitting">
+      <UniqueIdentifier>{7adca8de-2797-491f-8528-4c9b5acf067a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

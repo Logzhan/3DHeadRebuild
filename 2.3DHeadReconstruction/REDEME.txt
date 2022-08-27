@@ -1,0 +1,17 @@
+﻿/***********************************************************************************************
+ * FileName    : README.TXT
+ * Author      : Zhanli@UESTC
+ * Time        : 2018-01-12
+ * Version     : Ver 0.1.3
+ * Description : This is release notes about 3d head reconstruction project. This file we recom-
+                 mend to open with Notepad++ to visual effects.
+***********************************************************************************************/
+
+1、Release Notes :   
+		This is the new version of 3d head reconstruction project. In this project, I integrated 
+	server model and development model. You can selet your model you need. In addition, I Rearr-
+	anging the code to make the code frame clearer.
+
+2、Revised time and description :
+	
+	
